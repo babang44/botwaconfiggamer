@@ -15,8 +15,8 @@ const info = require("./lib/info.js");
 /////////////////
 const BotName = 'CONFIG GAMER BOT 🐲'; 
 const instagram = 'https://www.instagram.com/babang_hatake/'; 
-const telegram = 'https://t.me/reuzzz'; 
-const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
+const telegram = 'belum punya xixixi'; 
+const kapanbotaktif = 'dari jam 08.00 -00.00'; 
 const youtube = 'https://www.youtube.com/channel/UCzKLkts_PjZCUrji9z4Qcyg';
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
